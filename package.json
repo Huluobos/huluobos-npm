@@ -35,5 +35,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.4"
+  "version": "1.0.4",
+  "dependencies": {
+    "express": "~4.16.1"
+  }
 }
