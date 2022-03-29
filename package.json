@@ -1,0 +1,39 @@
+{
+  "_args": [
+    [
+      "huluobos@1.0.2",
+      "C:\\Users\\Huluobos\\Desktop\\vue-teacher-info"
+    ]
+  ],
+  "_from": "huluobos@1.0.2",
+  "_id": "huluobos@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-bLQ7ey38kc9FIPRdHwbzhmECioltWK0fF7XOPmcXqWJaVURIW4WCIHchdZhvZeEj0DJFu6zGNsQ30Q6oka9nRw==",
+  "_location": "/huluobos",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "huluobos@1.0.2",
+    "name": "huluobos",
+    "escapedName": "huluobos",
+    "rawSpec": "1.0.2",
+    "saveSpec": null,
+    "fetchSpec": "1.0.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/huluobos/-/huluobos-1.0.2.tgz",
+  "_spec": "1.0.2",
+  "_where": "C:\\Users\\Huluobos\\Desktop\\vue-teacher-info",
+  "author": "",
+  "description": "",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "huluobos",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.4"
+}
