@@ -8,6 +8,8 @@ Huluobos 自用 前端业务代码工具库
 
 参考了 [outils](https://github.com/proYang/outils)
 
+本地打包：npm i 后 npm run build
+
 ## :building_construction:  安装使用
 
 1. 直接下载`min`目录下的[Huluobos.min.js](https://github.com/proYang/Huluobos/blob/master/min/Huluobos.min.js)使用，支持UMD通用模块规范  
