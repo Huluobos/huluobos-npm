@@ -1,10 +1,10 @@
 {
-  "name": "Huluobos",
+  "name": "huluobos",
   "author": "Huluobos",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "license": "ISC",
   "description": "前端业务代码工具库",
-  "main": "min/Huluobos.min.min.js",
+  "main": "min/Huluobos.min.js",
   "_from": "huluobos@1.0.2",
   "_inBundle": false,
   "_integrity": "sha512-bLQ7ey38kc9FIPRdHwbzhmECioltWK0fF7XOPmcXqWJaVURIW4WCIHchdZhvZeEj0DJFu6zGNsQ30Q6oka9nRw==",

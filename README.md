@@ -12,7 +12,7 @@ Huluobos 自用 前端业务代码工具库
 
 ## :building_construction:  安装使用
 
-1. 直接下载`min`目录下的[Huluobos.min.js](https://github.com/proYang/Huluobos/blob/master/min/Huluobos.min.js)使用，支持UMD通用模块规范  
+1. 直接下载`min`目录下的[Huluobos.min.js](https://github.com/Huluobos/huluobos-npm/blob/master/min/Huluobos.min.js)使用，支持UMD通用模块规范  
 2. 使用npm安装
 
 ### 浏览器:
@@ -23,7 +23,7 @@ Huluobos 自用 前端业务代码工具库
   </script>
 ```
 
-### npm:
+### npm: （目前不支持）
 ``` bash
 $ npm install --save-dev Huluobos
 ```
@@ -34,7 +34,7 @@ const Huluobos = require('Huluobos')
 const OS = Huluobos.getOS()
 ```
 
-**推荐使用方法**  
+**推荐使用方法（也不支持）**  
 
 你不需要完整引入所有函数，所以只引入需要使用的方法即可。
 ``` javascript
