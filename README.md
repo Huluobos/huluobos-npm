@@ -6,6 +6,8 @@ Huluobos 自用 前端业务代码工具库
 
 业务开发过程中，会经常用到`日期格式化`、`url参数转对象`、`浏览器类型判断`、`节流函数`等常用函数，为避免不同项目多次复制粘贴的麻烦，这里统一封装，并发布到npm，以提高开发效率。
 
+参考了 [outils](https://github.com/proYang/outils)
+
 ## :building_construction:  安装使用
 
 1. 直接下载`min`目录下的[Huluobos.min.js](https://github.com/proYang/Huluobos/blob/master/min/Huluobos.min.js)使用，支持UMD通用模块规范  
